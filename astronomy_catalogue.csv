@@ -1,0 +1,68 @@
+name,category,distance_ly,apparent_magnitude,constellation,discovery_year,data_note
+Andromeda Galaxy,Galaxy,2537000,3.44,Andromeda,964,synthetic demonstration record
+Triangulum Galaxy,Galaxy,2730000,5.72,Triangulum,1654,synthetic demonstration record
+Whirlpool Galaxy,Galaxy,23000000,8.4,Canes Venatici,1773,synthetic demonstration record
+Sombrero Galaxy,Galaxy,31000000,8.0,Virgo,1781,synthetic demonstration record
+Large Magellanic Cloud,Galaxy,163000,0.9,Dorado,964,synthetic demonstration record
+Small Magellanic Cloud,Galaxy,200000,2.7,Tucana,964,synthetic demonstration record
+Milky Way,Galaxy,0,0.0,Sagittarius,1920,synthetic demonstration record
+Moon,Moon,0.00000004,-12.7,Not applicable,-1,synthetic demonstration record
+Europa,Moon,0.000005,-5.3,Auriga,1610,synthetic demonstration record
+Titan,Moon,0.000012,-1.2,Gemini,1655,synthetic demonstration record
+Ganymede,Moon,0.000005,-4.6,Auriga,1610,synthetic demonstration record
+Callisto,Moon,0.000005,-3.0,Auriga,1610,synthetic demonstration record
+Io,Moon,0.000005,-5.0,Auriga,1610,synthetic demonstration record
+Enceladus,Moon,0.000009,11.7,Taurus,1789,synthetic demonstration record
+Orion Nebula,Nebula,1344,4.0,Orion,1610,synthetic demonstration record
+Crab Nebula,Nebula,6500,8.4,Taurus,1731,synthetic demonstration record
+Ring Nebula,Nebula,2300,8.8,Lyra,1779,synthetic demonstration record
+Eagle Nebula,Nebula,7000,6.0,Serpens,1745,synthetic demonstration record
+Carina Nebula,Nebula,8500,1.0,Carina,1751,synthetic demonstration record
+Lagoon Nebula,Nebula,4100,6.0,Sagittarius,1654,synthetic demonstration record
+Helix Nebula,Nebula,650,7.6,Aquarius,1824,synthetic demonstration record
+Mercury,Planet,0.000006, -0.4,Not applicable,1631,synthetic demonstration record
+Venus,Planet,0.000004,-4.6,Not applicable,1610,synthetic demonstration record
+Earth,Planet,0, -3.99,Not applicable,1543,synthetic demonstration record
+Mars,Planet,0.000009,-2.9,Not applicable,1610,synthetic demonstration record
+Jupiter,Planet,0.00004,-2.7,Not applicable,1610,synthetic demonstration record
+Saturn,Planet,0.00008,0.7,Not applicable,1610,synthetic demonstration record
+Uranus,Planet,0.0003,5.7,Not applicable,1781,synthetic demonstration record
+Neptune,Planet,0.0005,7.8,Not applicable,1846,synthetic demonstration record
+Pluto,Planet,0.0006,14.0,Not applicable,1930,synthetic demonstration record
+Ceres,Planet,0.000003,7.0,Not applicable,1801,synthetic demonstration record
+Vesta,Planet,0.000003,6.0,Not applicable,1807,synthetic demonstration record
+ISS,Satellite,0.0000000002,-5.0,Low Earth orbit,1998,synthetic demonstration record
+Hubble Space Telescope,Satellite,0.0000000002,1.0,Low Earth orbit,1990,synthetic demonstration record
+Landsat 8,Satellite,0.0000000002,0.0,Low Earth orbit,2013,synthetic demonstration record
+Sentinel-2A,Satellite,0.0000000002,0.0,Low Earth orbit,2015,synthetic demonstration record
+Cartosat-2,Satellite,0.0000000002,0.0,Low Earth orbit,2007,synthetic demonstration record
+Chandrayaan-2 Orbiter,Satellite,0.0000000002,0.0,Lunar orbit,2019,synthetic demonstration record
+NOAA-20,Satellite,0.0000000002,0.0,Low Earth orbit,2017,synthetic demonstration record
+Sirius,Star,8.6,-1.46,Canis Major,1844,synthetic demonstration record
+Canopus,Star,310,-0.74,Carina,1592,synthetic demonstration record
+Arcturus,Star,36.7,-0.05,Bootes,1738,synthetic demonstration record
+Vega,Star,25,0.03,Lyra,1850,synthetic demonstration record
+Capella,Star,42.9,0.08,Auriga,1899,synthetic demonstration record
+Rigel,Star,860,0.13,Orion,1831,synthetic demonstration record
+Procyon,Star,11.5,0.34,Canis Minor,1844,synthetic demonstration record
+Betelgeuse,Star,550,0.5,Orion,1836,synthetic demonstration record
+Altair,Star,16.7,0.77,Aquila,1850,synthetic demonstration record
+Aldebaran,Star,65.3,0.85,Taurus,1837,synthetic demonstration record
+Spica,Star,250,0.97,Virgo,1850,synthetic demonstration record
+Antares,Star,550,1.06,Scorpius,1819,synthetic demonstration record
+Pollux,Star,33.8,1.14,Gemini,1850,synthetic demonstration record
+Fomalhaut,Star,25.1,1.16,Piscis Austrinus,1850,synthetic demonstration record
+Deneb,Star,2600,1.25,Cygnus,1837,synthetic demonstration record
+Regulus,Star,79.3,1.35,Leo,1814,synthetic demonstration record
+Castor,Star,51.6,1.58,Gemini,1650,synthetic demonstration record
+Polaris,Star,433,1.98,Ursa Minor,1690,synthetic demonstration record
+Achernar,Star,139,0.46,Eridanus,1598,synthetic demonstration record
+Alnilam,Star,2000,1.69,Orion,1780,synthetic demonstration record
+Alnitak,Star,1260,1.77,Orion,1780,synthetic demonstration record
+Mintaka,Star,1200,2.23,Orion,1780,synthetic demonstration record
+Barnard's Star,Star,5.96,9.5,Ophiuchus,1916,synthetic demonstration record
+Proxima Centauri,Star,4.24,11.13,Centaurus,1915,synthetic demonstration record
+Alpha Centauri,Star,4.37,-0.27,Centaurus,1689,synthetic demonstration record
+Tau Ceti,Star,11.9,3.5,Cetus,1852,synthetic demonstration record
+Kepler-22,Star,620,11.7,Cygnus,2009,synthetic demonstration record
+TRAPPIST-1,Star,39.5,18.8,Aquarius,1999,synthetic demonstration record
